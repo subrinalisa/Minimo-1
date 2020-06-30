@@ -1,4 +1,4 @@
 # Minimo-1
 psd to html conversion
 
-https://subrinasultana.github.io/Minimo-1/
+https://subrinalisa.github.io/Minimo-1/
