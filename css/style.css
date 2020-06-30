@@ -97,11 +97,11 @@ header{
 	border: none;
 	background: transparent;
 	position: absolute;
-	bottom: 10px;
-	right: 18px;
+	bottom: 23%;
+	right: 6%;
 	cursor: pointer;
 }
 .form_buildup input:focus,.form_buildup button:focus{
 	outline: none;
 }
-/*newsletter end
+/*newsletter end*/
